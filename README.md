@@ -16,7 +16,6 @@ The performance of these models is compared based on their F1 Score, which balan
 - [Dataset](#dataset)
 - [Models Developed](#models-developed)
 - [Model Comparison](#model-comparison)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
